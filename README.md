@@ -12,7 +12,7 @@ To provide a secure and trustworthy environment for children to learn, grow, and
 
 
 ## Application Design Document
-* <img src="./public/design.jpeg" class="center"/>
+<img src="./public/design.jpeg" class="center"/>
 
 ## Our solution
 A DataDAO that provides a safe and secure environment for children to explore and learn, free from exposure to harmful or inappropriate content.
@@ -55,7 +55,7 @@ A DataDAO that provides a safe and secure environment for children to explore an
 ```
 
 ## References
-https://docs.filecoin.io/fvm
-https://docs.zondax.ch/fevm/filecoin-solidity/
-https://github.com/filecoin-project/testnet-hyperspace
-https://rfs.fvm.dev/
+* https://docs.filecoin.io/fvm
+* https://docs.zondax.ch/fevm/filecoin-solidity/
+* https://github.com/filecoin-project/testnet-hyperspace
+* https://rfs.fvm.dev/
